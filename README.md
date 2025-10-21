@@ -16,3 +16,5 @@ The system recommends movies or TV shows based on their **description, cast, dir
 5. Build a function `recommend(title)` to show top 10 similar movies
 
 ---
+
+Download the dataset: [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
